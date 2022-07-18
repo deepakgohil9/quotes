@@ -2,5 +2,24 @@
   "dependencies": {
     "express": "^4.18.1",
     "hbs": "^4.2.0"
-  }
+  },
+  "name": "kuotes9",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js" 
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GohilDeepak009/quotes.git"
+  },
+  "author": "Deepak Gohil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GohilDeepak009/quotes/issues"
+  },
+  "homepage": "https://github.com/GohilDeepak009/quotes#readme",
+  "description": ""
 }
